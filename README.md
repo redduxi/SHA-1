@@ -1,5 +1,5 @@
 # SHA1
-SHA1 C++ Implementation
+C++ SHA1 Implementation
 
 [RFC Documentation](https://tools.ietf.org/html/rfc3174)
 
