@@ -6,6 +6,7 @@ C++ SHA1 Implementation
 
 ## Usage
 
+```c++
 SHA1CryptoServiceProvider s;
-
 s.Hashing("a");
+```
